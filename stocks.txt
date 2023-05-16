@@ -1,2 +1,15 @@
-pull 10 15 20
-casquette 12 8 21
+pull 1 2 20 10
+t-shirt 2 2 15 3
+pantalon 3 3 15 45
+jupe 4 2 15 25
+casquette 5 1 10 15
+sac 6 2 20 40
+chausette 7 1 5 20
+veste 8 3 25 2
+
+
+nom
+reference 
+taille 
+prix 
+stock
